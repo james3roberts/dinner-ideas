@@ -6,8 +6,8 @@ function Settings() {
     <>
       <Navbar />
       <div className="flex flex-col items-center justify-center min-h-screen">
-        <h1 className="text-5xl font-bold mb-4">Meal Planner</h1>
-        <p className="text-lg">This is where you'll plan your weekly meals!</p>
+        <h1 className="text-5xl font-bold mb-4">Settings</h1>
+        <p className="text-lg">This is where you'll change the settings.</p>
       </div>
     </>
   );
