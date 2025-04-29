@@ -1,5 +1,5 @@
 // src/pages/Planner.tsx
-import Navbar from '../components/Navbar';
+import Navbar from '../components/navbar';
 
 function Settings() {
   return (

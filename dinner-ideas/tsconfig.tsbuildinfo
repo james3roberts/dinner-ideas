@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/layout.tsx","./src/components/navbar.tsx","./src/pages/dinnerideas.tsx","./src/pages/grocerylist.tsx","./src/pages/homepage.tsx","./src/pages/planner.tsx","./src/pages/settings.tsx"],"version":"5.7.3"}
